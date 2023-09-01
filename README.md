@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard</h1>
-<h3 align="center">I am a Civil Engineer who has a general interests in data, business, technology, and using data to make better business decisions and solve unique problems.</h3>
+<h3 align="center">Engineering graduate who has a general interests in data, business, technology, and using data to make better business decisions and solve unique problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning Model Deployment**
 
-- 💬 Ask me about **Structural Engineering, Python**
+- 💬 Ask me about **Statistics, Data Science**
 
 - 📫 How to reach me **bbofori90@gmail.com**
 
