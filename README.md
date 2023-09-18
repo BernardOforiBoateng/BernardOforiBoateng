@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bernard</h1>
-<h3 align="center">Greetings! I'm Bernard, a graduate student specializing in Data Science, with a keen focus on harnessing the power of artificial intelligence and machine learning in practical applications.</h3>
+<h3 align="center">Hello! I'm Bernard, a graduate student specializing in Data Science, with a keen focus on harnessing the power of artificial intelligence and machine learning in practical applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 
