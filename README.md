@@ -5,11 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardoforiboateng&label=Profile%20views&color=0e75b6&style=flat" alt="bernardoforiboateng" /> </p>
 
-- 🔭 I’m currently working on **STEM Salary Prediction**
-
-- 🌱 I’m currently learning **Machine Learning Model Deployment**
-
-- 💬 Ask me about **Statistics, Data Science**
+- 🔭 I’m currently working on **Urban Malaria Determinants**
 
 - 📫 How to reach me **bbofori90@gmail.com**
 
